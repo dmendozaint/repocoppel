@@ -1,0 +1,14 @@
+{
+	"id": "a4d4142d-99f7-4e54-8cb8-bd51f7ff7e0f",
+	"name": "DosEnv",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://7678afd3-f464-4c47-8229-7cec3e1845a5.mock.pstmn.io",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-06-15T00:19:53.366Z",
+	"_postman_exported_using": "Postman/8.6.2"
+}
